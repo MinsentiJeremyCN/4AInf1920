@@ -1,0 +1,37 @@
+<hotel name = "HotelJava">
+	<camera nome = "1">
+		<letto> 2 </letto>
+		<bagno> si  </bagno>
+		<vista> mare </vista>
+	</camera>
+
+	<camera nome = "2">
+		<letto> 1 </letto>
+		<bagno> si  </bagno>
+		<vista> mare </vista>
+	</camera>
+
+	<camera nome = "3">
+		<letto> 2 </letto>
+		<bagno> si  </bagno>
+		<vista> mare </vista>
+	</camera>
+
+	<camera nome = "4">
+		<letto> 2 </letto>
+		<bagno> si  </bagno>
+		<vista> mare </vista>
+	</camera>
+
+	<camera nome = "5">
+		<letto> 2 </letto>
+		<bagno> si  </bagno>
+		<vista> colllina </vista>
+	</camera>
+
+	<camera nome = "6">
+		<letto> 2 </letto>
+		<bagno> si  </bagno>
+		<vista> collina </vista>
+	</camera>
+</hotel>
